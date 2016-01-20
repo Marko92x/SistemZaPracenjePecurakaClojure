@@ -62,16 +62,16 @@ On the front-end side of the application we are using jQuery for AJAX requests f
 ```
 
 Suppliers table:
-![Alt text](resources/public/img/s1.png?raw=true "Suppliers table")
+![Alt text](resources/public/img/s1.PNG?raw=true "Suppliers table")
 
 Debts table :
-![Alt text](resources/public/img/s2.png?raw=true "Debts table")
+![Alt text](resources/public/img/s2.PNG?raw=true "Debts table")
 
 Daily harvest table :
-![Alt text](resources/public/img/s3.png?raw=true "Daily harvest table")
+![Alt text](resources/public/img/s3.PNG?raw=true "Daily harvest table")
 
 Inserting items for daily harvest example :
-![Alt text](resources/public/img/s4.png?raw=true "Inserting items for daily harvest example")
+![Alt text](resources/public/img/s4.PNG?raw=true "Inserting items for daily harvest example")
 
 FON 2016 january
 
