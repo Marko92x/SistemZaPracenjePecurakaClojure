@@ -1,15 +1,13 @@
-(ns mybank.core
+(ns SistemZaPracenjePecuraka.core
     (:use compojure.core
       ring.middleware.json
       ring.util.response)
     (:require [compojure.route :as route]
-              [mybank.view :as view]
-              [mybank.News :as news]
-              [mybank.domain.dobavljac :as dobavljac]
-              [mybank.domain.zaduzenje :as zaduzenje]
-              [mybank.domain.dnevnaberba :as dnevnaberba]
-              [mybank.domain.stavkadnevneberbe :as stavka]
-              [mybank.controller.controller :as con])
+              [SistemZaPracenjePecuraka.domain.dobavljac :as dobavljac]
+              [SistemZaPracenjePecuraka.domain.zaduzenje :as zaduzenje]
+              [SistemZaPracenjePecuraka.domain.dnevnaberba :as dnevnaberba]
+              [SistemZaPracenjePecuraka.domain.stavkadnevneberbe :as stavka]
+              [SistemZaPracenjePecuraka.controller.controller :as con])
               )
 
 (defroutes my_routes

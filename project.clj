@@ -1,7 +1,7 @@
-(defproject mybank "1.0.0-SNAPSHOT"
+(defproject SistemZaPracenjePecuraka "1.0.0-SNAPSHOT"
   :description "FIXME: write description"
   :plugins [[lein-ring "0.8.7"]]
-  :ring {:handler mybank.core/app
+  :ring {:handler SistemZaPracenjePecuraka.core/app
          :auto-reload? true
          :auto-refresh? false}
   :dependencies [[org.clojure/clojure "1.3.0"]

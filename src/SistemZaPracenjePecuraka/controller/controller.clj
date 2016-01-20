@@ -1,4 +1,4 @@
-(ns mybank.controller.controller
+(ns SistemZaPracenjePecuraka.controller.controller
     (:require
       [clostache.parser :as clostache]))
 

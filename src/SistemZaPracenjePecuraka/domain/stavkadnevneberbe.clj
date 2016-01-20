@@ -1,4 +1,4 @@
-(ns mybank.domain.stavkadnevneberbe
+(ns SistemZaPracenjePecuraka.domain.stavkadnevneberbe
     (:refer-clojure :exclude [get])
     (:require [clojure.java.jdbc :as jdbc]
       [clojure.java.jdbc.sql :as sql]

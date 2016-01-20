@@ -1,5 +1,5 @@
-(ns mybank.test.core
-  (:use [mybank.core])
+(ns SistemZaPracenjePecuraka.test.core
+  (:use [SistemZaPracenjePecuraka.core])
   (:use [clojure.test]))
 
 (deftest replace-me ;; FIXME: write
